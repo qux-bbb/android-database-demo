@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DatabaseDemo</string>
+    <string name="add_button">Add</string>
+    <string name="query_button">Query</string>
+</resources>
